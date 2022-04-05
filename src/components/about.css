@@ -1,0 +1,33 @@
+h3{
+    text-align: center;
+    font-size: 36px;
+}
+h5{
+    text-align: center;
+    color:darkcyan;
+    font-family: "Roboto",sans-serif;
+    font-size: 24px;
+}
+p{
+    text-align: center;
+}
+.nav{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    min-height: 10vh;
+    background: rgb(18, 150, 216);
+    color: white;
+    
+  }
+  /* .nav-links{
+    width:50%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    color:brown;
+  } */
+  .nav-links Link  {
+    text-decoration: none;
+  }

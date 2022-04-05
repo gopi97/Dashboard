@@ -1,0 +1,15 @@
+.cmn__hdr {
+    position: sticky;
+    top: 0;
+}
+
+.dhb__wrp {
+    background-color: rgb(247, 240, 240);
+    min-height: calc(100vh - 70px);
+}
+
+.dhb__cards {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 32px;
+}
